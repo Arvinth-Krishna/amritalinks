@@ -3,7 +3,7 @@ background-color:#ffe3ed;
   margin:0;
   text-align: center;
   font-size: 100%;
-  position: relative;
+  position: static;
 
 
 
@@ -86,10 +86,25 @@ margin:0 auto 0 auto}
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #7c0a02;
+  background-color: #ffe3ed;
   border-radius:30px;
 }
 
+
+
+.li8 a {
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: 2em;
+  padding: 16px;
+
+  text-decoration: none;
+}
+
+.li8 a:hover {
+  background-color: #8186d5;
+}
 .intranet{width:auto;
 display:inline-block;
 margin:0 auto 0 auto}
@@ -102,7 +117,7 @@ margin:0 auto 0 auto}
   padding-bottom: 20px;
 
 }
-.tdt{margin-left: auto;margin-right: auto;\
+.tdt{margin-left: auto;margin-right: auto;
 
 
 
@@ -202,6 +217,21 @@ top:0;}
     border-radius: 30px;
 }
 
+.dropbtn6 {
+    background-color: #a4123f;
+    color:white;
+  font-family: 'Yeon Sung', cursive;
+    padding:2px;
+    font-size: 130%;
+    width: 170px;
+    border: none;
+
+
+
+
+    border-radius: 30px;
+}
+
 .dropdown {
     position: relative;
     display: inline-block;
@@ -258,13 +288,16 @@ table{
 }
 .contact-me{
   margin-top: 0;
+  margin-bottom: 0;
   height:130px;
   position: relative;
-  top:40px;
+  top:0;
+  bottom:0;
   background-color: #a4123f;
   color: white;}
   .gak{
   font-family: 'Yeon Sung', cursive;
+  padding-bottom: auto;
   font-size:19px;
   color: white;
 
