@@ -115,6 +115,8 @@ margin:0 auto 0 auto}
   margin: 0 auto 0 auto;
   padding-top: 10px;
   padding-bottom: 20px;
+  text-decoration-line: underline;
+  text-decoration-style: double;
 
 }
 .tdt{margin-left: auto;margin-right: auto;
