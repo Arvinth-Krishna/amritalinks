@@ -1,0 +1,271 @@
+body {
+background-color:#ffe3ed;
+  margin:0;
+  text-align: center;
+  font-size: 100%;
+  position: relative;
+
+
+
+}
+h2{margin-top: 0;}
+.alogo{
+
+width: auto;
+height: 200px
+
+}
+.top-container{
+width: 100px;
+margin-top: 0;
+margin-bottom: 10px;
+}
+
+/********************* ul *************************/
+
+
+.intranet {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+  border-radius:30px;
+}
+
+.liin {
+  float: left;
+}
+
+.liin a {
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: 2em;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.liin a:hover {
+  background-color: #111111;
+}
+.liin3 {
+  float: left;
+}
+.liin3 a {
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: 2em;
+  padding: 16px;
+  text-decoration: none;
+}
+.liin3 a:hover {
+  background-color: #007944;
+}
+.intranet{width:auto;
+display:inline-block;
+margin:0 auto 0 auto}
+
+.liin1 a {
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: 2em;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.liin1 a:hover {
+  background-color: #111111;
+}
+
+
+.intranet1 {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #7c0a02;
+  border-radius:30px;
+}
+
+.intranet{width:auto;
+display:inline-block;
+margin:0 auto 0 auto}
+/**********************************************************/
+.th3{
+  font-family: 'ZCOOL XiaoWei', serif;
+  font-size: 45px;
+  margin: 0 auto 0 auto;
+  padding-top: 10px;
+  padding-bottom: 20px;
+
+}
+.tdt{margin-left: auto;margin-right: auto;\
+
+
+
+}
+
+hr{
+  width:140px;
+  height: 1;
+  border-top:5px;
+  border-left:0;
+  border-right:0;
+  border-bottom:0;
+  border-style: dotted;
+  border-color: #a4123f;
+  padding: 0
+
+
+}
+
+
+
+
+
+.al{
+  font-family: 'ZCOOL XiaoWei', serif;
+  font-size: 3rem;
+margin: 0 auto 0 auto;
+  width: auto;
+   color: white;
+   padding-top: 0;
+
+ }
+ .middle-container{
+   height: 1000px;
+ }
+
+ .fa {margin: 0 auto 0 auto;
+ font-family: 'Yeon Sung', cursive;
+ color: white;
+ font-weight: bold;
+ font-size: 1.5em;
+ width: auto;
+
+padding: 0;
+
+ }
+
+ ul{margin: 0;
+ padding: 0;
+ padding-bottom: 30px}
+
+li{list-style-type: none;
+width: auto;height: auto;
+ }
+ .h21{
+
+   padding-top: 30px;
+   font-family: 'Yeon Sung', cursive;
+ }
+img{
+
+  left:0;
+  margin: 0;
+  padding:0;}
+
+.imgopac{height:80px;width: auto;}
+
+
+
+
+.topic{
+  background-color: #a4123f;
+
+
+}
+.fixi{
+  margin:0;
+  padding:0;
+
+background-color: #a4123f;
+position: sticky;
+top:0;}
+
+
+
+/***********************TIMETAble******************/
+.dropbtn {
+    background-color: #a4123f;
+    color:white;
+  font-family: 'Yeon Sung', cursive;
+    padding:10px;
+    font-size: 130%;
+    width: 190px;
+    border: none;
+
+
+    border-radius: 30px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #64b2cd;
+    min-width: 190px;
+    z-index: 1;
+    border-radius: 40px;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 20px 6px;
+    text-decoration: none;
+    display: block;
+      font-size: 30px;
+}
+
+.bd{
+  padding: 0;
+  margin: 0;
+  width: auto;
+  height: 80px;
+}
+
+.dropdown-content a:hover {background-color: white;
+border-radius: 40px;}
+.dropdown:hover .dropdown-content {display: block;
+}
+.dropdown:hover .dropbtn {background-color: #7c0a02;}
+
+table{
+  margin: 0 auto 0 auto;
+}
+.others{
+  height: 400px;
+}
+/*******************bottom container*******************/
+.boo{
+  width: auto;
+  height:80px;
+
+}
+.btn{
+  background-color: #007944;
+  color: white;
+  font-family: 'Yeon Sung', cursive;
+
+}
+.contact-me{
+  margin-top: 0;
+  height:130px;
+  position: relative;
+  top:40px;
+  background-color: #a4123f;
+  color: white;}
+  .gak{
+  font-family: 'Yeon Sung', cursive;
+  font-size:19px;
+  color: white;
+
+}
