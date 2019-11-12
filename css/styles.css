@@ -35,6 +35,9 @@ margin-bottom: 10px;
 
 .liin {
   float: left;
+   padding: 0px;
+   outline-style: solid;
+   outline-color: white;
 }
 
 .liin a {
@@ -42,7 +45,7 @@ margin-bottom: 10px;
   color: white;
   text-align: center;
   font-size: 2em;
-  padding: 16px;
+  padding: 25px;
   text-decoration: none;
 }
 
