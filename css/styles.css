@@ -118,7 +118,7 @@ margin:0 auto 0 auto}
   margin: 0 auto 0 auto;
   padding-top: 10px;
   padding-bottom: 50px;
- 
+
 
 }
 
@@ -251,6 +251,8 @@ font-weight: bold;
     min-width: 190px;
     z-index: 1;
     border-radius: 40px;
+    font-weight: 600;
+font-family: 'ZCOOL XiaoWei', serif;
 }
 
 .dropdown-content a {
@@ -265,7 +267,7 @@ font-weight: bold;
   padding: 0;
   margin: 0;
   width: auto;
-  height: 80px;
+  height: 120px;
 }
 
 .dropdown-content a:hover {background-color: white;
@@ -291,6 +293,10 @@ table{
   color: white;
   font-family: 'Yeon Sung', cursive;
 
+}
+.dt-tittle{
+
+  font-size: x-large;
 }
 .contact-me{
   margin-top: 0;
