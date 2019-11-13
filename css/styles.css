@@ -62,6 +62,9 @@ margin-bottom: 10px;
   font-size: 2em;
   padding: 16px;
   text-decoration: none;
+  outline-style: groove;
+    outline-color: white;
+}
 }
 .liin3 a:hover {
   background-color: #007944;
