@@ -1,5 +1,6 @@
 # amritalinks
 ### For Amritians
+https://arvinth-krishna.github.io/amritalinks/
 
 
 ## Contains
@@ -21,4 +22,3 @@ https://drive.google.com/drive/folders/1eBCasKLM3ONvkatRtUnSLR9nIwONO8ww?usp=sha
 8)FTP**
 
 
-https://arvinth-krishna.github.io/amritalinks/
