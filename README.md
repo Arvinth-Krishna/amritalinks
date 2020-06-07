@@ -1,9 +1,8 @@
 # amritalinks
 ### For Amritians
-Its not an dynamic website.
+
 
 ## Contains
-
 1) Links to Intranet, AUMS, CMS, IDE
 
 2)Student Timtable
