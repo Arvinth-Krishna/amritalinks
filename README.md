@@ -7,7 +7,7 @@
 
 2)Student Timtable
 
-3)Book Drive -> This drive contains all sort of ENGINEERING BOOKS
+3)Book Drive -> This drive contains all sort of MECHANICAL ENGINEERING BOOKS
 https://drive.google.com/drive/folders/1eBCasKLM3ONvkatRtUnSLR9nIwONO8ww?usp=sharing
 
 4)MECH's Syllabus
