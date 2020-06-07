@@ -3,7 +3,7 @@
 
 
 ## Contains
-1) Links to Intranet, AUMS, CMS, IDE
+1)Links to Intranet, AUMS, CMS, IDE
 
 2)Student Timtable
 
