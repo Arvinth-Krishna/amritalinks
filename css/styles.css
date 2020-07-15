@@ -225,6 +225,18 @@ font-weight: bold;
 
     border-radius: 30px;
 }
+.dropbtnss {
+    background-color: #a4123f;
+    color:white;
+  font-family: 'Yeon Sung', cursive;
+    padding:10px;
+    font-size: 130%;
+    width: 100%;
+    border: none;
+font-weight: bold;
+
+    border-radius: 30px;
+}
 
 .dropbtn6 {
     background-color: #a4123f;
