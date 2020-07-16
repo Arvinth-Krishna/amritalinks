@@ -213,6 +213,18 @@ top:0;}
 
 
 /***********************TIMETAble******************/
+.sbtn{
+    background-color:white;
+    color:black;
+  font-family: 'Yeon Sung', cursive;
+    padding:10px;
+    font-size: 1.5em;
+      width: 25%;
+    border: none;
+font-weight: bold;
+
+    border-radius: 30px;
+}
 .dropbtn {
     background-color: #a4123f;
     color:white;
