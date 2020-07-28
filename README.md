@@ -8,17 +8,19 @@ https://arvinth-krishna.github.io/amritalinks/
 
 2)Student Timtable
 
-3)Book Drive -> This drive contains all sort of MECHANICAL ENGINEERING BOOKS
+3)Book Drive -> This drive contains all sort of ENGINEERING BOOKS
 https://drive.google.com/drive/folders/1eBCasKLM3ONvkatRtUnSLR9nIwONO8ww?usp=sharing
 
-4)MECH's Syllabus
+4)Academic NOTES & PPT
 
-5)Dynamic ASE Calendar
+5)MECH's Syllabus
 
-6)Question Paper Bank 
+6)Dynamic ASE Calendar
 
-7)OPAC
+7)Question Paper Bank 
 
-8)FTP**
+8)OPAC
+
+9)FTP
 
 
