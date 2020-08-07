@@ -102,6 +102,9 @@ margin:0 auto 0 auto}
   background-color: #111111;
 }
 
+.liinlv a:hover {
+  background-color: #111111;
+}
 
 .intranet1 {
   list-style-type: none;
