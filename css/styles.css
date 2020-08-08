@@ -309,12 +309,20 @@ font-family: 'ZCOOL XiaoWei', serif;
       font-size: 30px;
 }
 
+.bbd{
+  padding: 0;
+  margin: 0;
+  width: auto;
+  height: 160px;
+}
+
 .bd{
   padding: 0;
   margin: 0;
   width: auto;
   height: 120px;
 }
+
 
 .dropdown-content a:hover {background-color: white;
 border-radius: 40px;}
