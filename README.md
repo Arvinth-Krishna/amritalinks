@@ -6,12 +6,12 @@ https://arvinth-krishna.github.io/amritalinks/
 ## Contains
 1)Links to Intranet, AUMS, CMS, IDE
 
-2)Student Timtable
+2)Timtable Fetcher
 
 3)Book Drive -> This drive contains all sort of ENGINEERING BOOKS
 https://drive.google.com/drive/folders/1eBCasKLM3ONvkatRtUnSLR9nIwONO8ww?usp=sharing
 
-4)Academic NOTES & PPT
+4)Academic NOTES & PPT -> This helps students to share the course materials and their notes
 
 5)And we also check out Academic circulars and Exam Schedule
 
