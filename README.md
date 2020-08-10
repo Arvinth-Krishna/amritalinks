@@ -4,9 +4,9 @@ https://arvinth-krishna.github.io/amritalinks/
 
 
 ## Contains
-1)Links to Intranet, AUMS, CMS, IDE
+1)Links to Intranet, AUMS, CMS, Ample...
 
-2)Timtable Fetcher
+2)Timetable Fetcher
 
 3)Book Drive -> This drive contains all sort of ENGINEERING BOOKS
 https://drive.google.com/drive/folders/1eBCasKLM3ONvkatRtUnSLR9nIwONO8ww?usp=sharing
