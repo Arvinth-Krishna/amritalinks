@@ -13,14 +13,16 @@ https://drive.google.com/drive/folders/1eBCasKLM3ONvkatRtUnSLR9nIwONO8ww?usp=sha
 
 4)Academic NOTES & PPT
 
-5)MECH's Syllabus
+5)And we also check out Academic circulars and Exam Schedule
 
-6)Dynamic ASE Calendar
+6)All Department Syllabus
 
-7)Question Paper Bank 
+7)Academic Calendar
 
-8)OPAC
+8)Question Paper Bank 
 
-9)FTP
+9)OPAC
+
+10)FTP
 
 
