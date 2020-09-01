@@ -14,7 +14,7 @@ https://arvinth-krishna.github.io/amritalinks/
 3)Book Drive -> This drive contains all sort of ENGINEERING BOOKS
 https://drive.google.com/drive/folders/1eBCasKLM3ONvkatRtUnSLR9nIwONO8ww?usp=sharing
 
-4)Academic NOTES & PPT -> This helps students to share the course materials and their notes
+4)Academic NOTES & PPT -> This helps students to share the course materials and their notes with others
 
 5)And we also check out Academic circulars and Exam Schedule
 
