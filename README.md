@@ -1,7 +1,7 @@
 # Amrita Links -GAK
 ### For Amritians
 
-Amrita Links helps Amritians to access the existing resources easily and effectively.
+Amrita Links helps Amritians to access the existing resources Easily and Quickly.
 
 https://arvinth-krishna.github.io/amritalinks/
 
