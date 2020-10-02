@@ -31,7 +31,7 @@
 
   </head>
   <body>
-    <div class="topic">
+    <div id="homeid" class="topic">
          <a href="https://www.amrita.edu/" target="_blank"><img class="alogo"src="https://www.amrita.edu/sites/default/files/logo.png" alt="Amrita-logo"></a>
 
 
@@ -45,7 +45,14 @@
    <div class="">
 <iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:240px;height:80px;"src="https://www.clocklink.com/html5embed.php?clock=043&timezone=India_Chennai&color=white&size=240&Title=&Message=&Target=&From=2020,1,1,0,0,0&Color=white"></iframe></div>
    <button type="button" class="sbtn" name="FEEDB"><a href="https://www.surveymonkey.com/r/SP753WZ" target="_blank">Feedback</a></button>
-
+    
+ <select onChange="location.href=this.value" reload="True">
+     <option value="#homeid">Home</option>
+     <option value="#syllabusid">Syllabus</option>
+     <option value="#timefetcherid">Timetable Fetcher</option>
+       <option value="#wifiid">Wifi Tools</option <option value="www.aol.com">B</option>
+        <option value="#calendarid">Calendar</option>
+         </select>
 
     <div class="middle-container">
       <div class="profile">
@@ -145,7 +152,7 @@ margin-right: 50px;
                 <li class="dt">
     <table class="tdt">
       <tr>
-    <td><div class="dropdown">
+    <td><div id="syllabusid" class="dropdown">
         <button style=" margin-right:25px;" class="dropbtnss" hspace='102%'   </>2015 Syllabus  </button>
         <div class="dropdown-content">
 
@@ -232,10 +239,10 @@ margin-right: 50px;
 <br>
   <hr>
 
-<div class="middle-container">
+<div id="timefetcherid" class="middle-container">
   <div class="profile">
 
-    <h3 class="th3"><em >🕰️Timetable Fetcher</em></h3>
+    <h3  class="th3"><em >🕰️Timetable Fetcher</em></h3>
 
 
 <ul class="intranet">
@@ -255,7 +262,7 @@ margin-right: 50px;
   <br>
 
 
-          <h3 class="th3"><em >Amrita's Wifi Tools 🧰</em></h3>
+          <h3 id="wifiid" class="th3"><em >Amrita's Wifi Tools 🧰</em></h3>
 
 
         <div class="others">
@@ -280,7 +287,7 @@ margin-right: 50px;
     </div>
 <br>
 
-  <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23b33b5b&amp;ctz=Asia%2FKolkata&amp;src=czU0OXE2YmEzazQ3bmtydTl2YjA1N24wbnNuNWhibnJAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%230B8043&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA" style="border-width:0" width="799" height="600" frameborder="0" scrolling="no"></iframe>
+  <iframe id="calendarid" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23b33b5b&amp;ctz=Asia%2FKolkata&amp;src=czU0OXE2YmEzazQ3bmtydTl2YjA1N24wbnNuNWhibnJAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%230B8043&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA" style="border-width:0" width="799" height="600" frameborder="0" scrolling="no"></iframe>
 <br>
 
   <hr>
